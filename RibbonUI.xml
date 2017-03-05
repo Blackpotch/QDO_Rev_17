@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<customUI xmlns="http://schemas.microsoft.com/office/2009/07/customui">
+  <ribbon startFromScratch="false">
+    <tabs>
+      <tab id="tabPIRSA" label="PIRSA">
+        <group id="grpQDO" label="QDO">
+          <button id="btnNew" label="New" imageMso="RecordsAddFromOutlook" size="large" onAction="Callback" />
+          <button id="btnEdit" label="Edit" imageMso="TableStyleClear" size="large" onAction="Callback" />
+          <button id="btnSaveAs" label="Save As" imageMso="Copy" size="large" onAction="Callback" />
+        </group>
+        <group id="grpNav" label="Navigation">
+          <button id="btnFirst" label="First" imageMso="ShapeRoundedRectangle" size="large" onAction="Callback" />
+          <button id="btnBack" label="Back" imageMso="ShapeLeftArrow" size="large" onAction="Callback" />
+          <button id="btnForward" label="Forward" size="large" onAction="Callback" imageMso="ShapeRightArrow" />
+          <button id="btnLast" label="Last" size="large" onAction="Callback" imageMso="ShapeRoundedRectangle" />
+        </group>
+        <group id="grpShare" label="Share">
+          <button id="btnPrint" label="Print" size="large" onAction="Callback" imageMso="FilePrint" />
+          <button id="btnPrintPreview" label="Print Preview" size="large" onAction="Callback" imageMso="FilePrintPreview" />
+          <button id="btnEmail" label="Email" size="large" onAction="Callback" imageMso="FileSendAsAttachment" />
+        </group>
+        <group id="grpOptions" label="Options">
+          <checkBox id="chkHideOldSheetControls" label="Hide Old Sheet Controls" />
+        </group>
+      </tab>
+    </tabs>
+  </ribbon>
+</customUI>
