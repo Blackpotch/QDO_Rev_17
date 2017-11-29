@@ -2,7 +2,6 @@
 *******************************************************************************
 Starting Point - My old QDO from 2007 with the navigation clich apparently fixed.
 
-
 25/11/17
 *******************************************************************************
 The powers that be have decided changes to the QDO were due. I've been given a 
@@ -18,10 +17,16 @@ the next stage (coding) of the application.
 ********************************************************************************
 Continue with trying to match the format of the QDO with the format of the supplied
 word document. Whilst inpecting vehicles.
-Add	the supplied Word Document to the project.
+Add the supplied Word Document to the project.
 
 27/11/17
 ********************************************************************************
 Complete formating the QDO up to where it gets presented to Wayne.
 Begin modification of the New QDO form deleting deprecated fields and adding new 
 ones.
+
+30/11/17
+********************************************************************************
+Complete modifications to the controls in the New QDO form and the Edit QDO form.
+Remove deprecated code and prepare for the next tranch of coding the forms with 
+the additional fields which need to be added to the data sheet/table.
