@@ -34,3 +34,8 @@ the additional fields which need to be added to the data sheet/table.
 1/12/17
 ********************************************************************************
 Add the new fields to the Data table
+
+3/12/17
+********************************************************************************
+Begin to modify the code on the DOrder sheet. Specifically the InsertData sub
+Begin the mods to the Form ADD code to incorporate the new fields
