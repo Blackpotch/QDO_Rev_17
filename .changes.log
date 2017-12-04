@@ -38,4 +38,14 @@ Add the new fields to the Data table
 3/12/17
 ********************************************************************************
 Begin to modify the code on the DOrder sheet. Specifically the InsertData sub
-Begin the mods to the Form ADD code to incorporate the new fields
+Begin the mods to the frmNewDO code to incorporate the new fields
+
+4/12/17
+* Code FillForm Subroutine on frmNewDO
+* Code InsertData Sub on the QDO sheet
+* Code WriteData Sub on the frmNewDO 
+* Code WriteData Sub on the frmEditDO
+* Code FillForm Sub on the frmEditDO
+* Code LoadData Sub on the frmEditDO
+* Correct Tab order on frmEditDO
+* Correct Tab order on frmNewDO
