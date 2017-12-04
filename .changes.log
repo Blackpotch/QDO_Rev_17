@@ -41,6 +41,7 @@ Begin to modify the code on the DOrder sheet. Specifically the InsertData sub
 Begin the mods to the frmNewDO code to incorporate the new fields
 
 4/12/17
+********************************************************************************
 * Code FillForm Subroutine on frmNewDO
 * Code InsertData Sub on the QDO sheet
 * Code WriteData Sub on the frmNewDO 
@@ -49,3 +50,5 @@ Begin the mods to the frmNewDO code to incorporate the new fields
 * Code LoadData Sub on the frmEditDO
 * Correct Tab order on frmEditDO
 * Correct Tab order on frmNewDO
+* Debug and rewrite dodgey code on the frmEditDO form
+
