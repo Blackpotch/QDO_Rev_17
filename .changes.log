@@ -52,3 +52,6 @@ Begin the mods to the frmNewDO code to incorporate the new fields
 * Correct Tab order on frmNewDO
 * Debug and rewrite dodgey code on the frmEditDO form
 
+8/12/17
+********************************************************************************
+* Repair the formatting of the Driver time and Inspector time on frmEditDO
