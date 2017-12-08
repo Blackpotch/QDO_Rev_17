@@ -57,3 +57,5 @@ Begin the mods to the frmNewDO code to incorporate the new fields
 * Repair the formatting of the Driver time and Inspector time on frmEditDO
 * Add the Inspector ID# to the Details sheet
 * Code the frmAddDO and frmEditDO to automatically bring up the Inspector ID num
+* Add the callbacks to the RibbonUI xml
+* Add new code module and code the basic callbacks for the new RibbonUI controls
