@@ -59,3 +59,7 @@ Begin the mods to the frmNewDO code to incorporate the new fields
 * Code the frmAddDO and frmEditDO to automatically bring up the Inspector ID num
 * Add the callbacks to the RibbonUI xml
 * Add new code module and code the basic callbacks for the new RibbonUI controls
+
+9/12/17
+* Repair the typo identified by Wayne
+* Fix a bug which was not allocating the glNum correctly in frmEditDO
