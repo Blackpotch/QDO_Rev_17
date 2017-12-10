@@ -2,7 +2,7 @@
 <customUI xmlns="http://schemas.microsoft.com/office/2009/07/customui">
   <ribbon startFromScratch="false">
     <tabs>
-      <tab id="tabPIRSA" label="PIRSA">
+      <tab id="tabPIRSA" label="PIRSA - QDO">
         <group id="grpQDO" label="QDO">
           <button id="btnNew" label="New" imageMso="RecordsAddFromOutlook" size="large" onAction="NewQDO" />
           <button id="btnEdit" label="Edit" imageMso="TableStyleClear" size="large" onAction="EditQDO" />
@@ -20,7 +20,7 @@
           <button id="btnEmail" label="Email" size="large" onAction="EmailQDO" imageMso="FileSendAsAttachment" />
         </group>
         <group id="grpOptions" label="Options">
-          <checkBox id="chkHideOldSheetControls" label="Hide Old Sheet Controls" onAction="ToggleSheetControls" />
+          <checkBox id="chkHideOldSheetControls" label="Hide Old Sheet Controls" onAction="ToggleSheetControls" getPressed="GetSheetControlStatus" />
         </group>
       </tab>
     </tabs>
