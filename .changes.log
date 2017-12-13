@@ -1,6 +1,6 @@
 3/3/17
 *******************************************************************************
-Starting Point - My old QDO from 2007 with the navigation clich apparently fixed.
+Starting Point - My old QDO from 2009 with the navigation clich apparently fixed.
 
 25/11/17
 *******************************************************************************
@@ -71,3 +71,9 @@ Begin the mods to the frmNewDO code to incorporate the new fields
 * Code the Hide Old sheet controls checkbox
 * Add a flag to check if rows are hidden
 * Add HideRows and UnHideRows subs
+
+13/12/17
+********************************************************************************
+* Debug the frmEdit form which was saving SignOffContactNum as InspectorID
+* Debug the sub routine on the shtQDO which was not bringing up InspectorID correctly
+* Add the shtNoMacro to display when no macros are active
