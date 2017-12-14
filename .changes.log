@@ -77,3 +77,11 @@ Begin the mods to the frmNewDO code to incorporate the new fields
 * Debug the frmEdit form which was saving SignOffContactNum as InspectorID
 * Debug the sub routine on the shtQDO which was not bringing up InspectorID correctly
 * Add the shtNoMacro to display when no macros are active
+
+14/12/17
+********************************************************************************
+* Complete coding to the shtNoMacro sheet
+* Add the code to populate the Transport Company Address on the frmEditDO when the user
+  clicks or changes the Transport Company combo box
+* Add code to populate the Destination Phone and Destination Address on the frmEditDO
+  when the user clicks or changes the Destination combo box
