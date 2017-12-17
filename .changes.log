@@ -85,3 +85,12 @@ Begin the mods to the frmNewDO code to incorporate the new fields
   clicks or changes the Transport Company combo box
 * Add code to populate the Destination Phone and Destination Address on the frmEditDO
   when the user clicks or changes the Destination combo box
+
+17/12/17
+********************************************************************************
+* Add the code to populate the Transport Company Address on the frmAddDO when the user
+  clicks or changes the Transport Company combo box
+* Add code to populate the Destination Phone and Destination Address on the frmAddDO
+  when the user clicks or changes the Destination combo box
+* Add the code to force uppercase in the Driver Licence and Rego text boxes on
+  frmEditDO
