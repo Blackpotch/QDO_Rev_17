@@ -94,3 +94,8 @@ Begin the mods to the frmNewDO code to incorporate the new fields
   when the user clicks or changes the Destination combo box
 * Add the code to force uppercase in the Driver Licence and Rego text boxes on
   frmEditDO
+
+ 5/01/18
+ ********************************************************************************
+ * Code a macro to goto the Truck Sheet rather than the deprecated got to truck sheet
+   button on the shtDOrder	
