@@ -97,5 +97,8 @@ Begin the mods to the frmNewDO code to incorporate the new fields
 
  5/01/18
  ********************************************************************************
- * Code a macro to goto the Truck Sheet rather than the deprecated got to truck sheet
-   button on the shtDOrder	
+ * Code a macro to goto the Truck Sheet rather than the deprecated got to truck sheet button on the shtDOrder	
+
+ 23/3/18
+ ********************************************************************************
+ * Edit the Lists.xlsx file and update the importers list so this is now in the same format as the lists currently in the QDO
