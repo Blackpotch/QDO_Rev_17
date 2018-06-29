@@ -104,5 +104,9 @@ Begin the mods to the frmNewDO code to incorporate the new fields
  * Edit the Lists.xlsx file and update the importers list so this is now in the same format as the lists currently in the QDO
 
  27/6/18
- ********************************************************************************* Repair glitch on the New Form nor clearing the phone number text box.
+ ********************************************************************************* Repair glitch on the New Form not clearing the phone number text box.
  * Tweak and add the Importers List from the PIIMS data provide by plant health
+
+ 29/6/18
+ ********************************************************************************* Tweak, massage and manipulate the old QDO file and extract the Exporters and Trucking companies.
+ * Add these lists to the QDO and prepare for testing
