@@ -110,3 +110,13 @@ Begin the mods to the frmNewDO code to incorporate the new fields
  29/6/18
  ********************************************************************************* Tweak, massage and manipulate the old QDO file and extract the Exporters and Trucking companies.
  * Add these lists to the QDO and prepare for testing
+
+ 29/11/18
+ *********************************************************************************
+ HOLD THE PHONE:
+ I've now been given another sheet to try and mimic. Incredibly they now want the id number back on the left hand side of the page along with more cosmetic changes. Henceforth this version will be known as 2.1
+ * Add the *pdf of the changes they want to git.
+ * Replace the Logo on shtQDO
+ * Make the watermark lighter
+ * Fix the misspelling of the word "receipt"
+ * Commit - The rest of the cosmetic mods will require additional rows and changes to named cells
