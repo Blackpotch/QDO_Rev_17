@@ -120,3 +120,7 @@ Begin the mods to the frmNewDO code to incorporate the new fields
  * Make the watermark lighter
  * Fix the misspelling of the word "receipt"
  * Commit - The rest of the cosmetic mods will require additional rows and changes to named cells
+ * Smoko
+ * Shift the ellusive ID Number back to the left and make it larger
+ * Make the row starting with Quantity larger and more visible as requested
+ * Commit
