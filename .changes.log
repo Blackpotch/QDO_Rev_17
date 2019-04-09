@@ -124,3 +124,10 @@ Begin the mods to the frmNewDO code to incorporate the new fields
  * Shift the ellusive ID Number back to the left and make it larger
  * Make the row starting with Quantity larger and more visible as requested
  * Commit
+
+ 9/4/19
+ * Finally the powers that be have gotten back to me with a couple of trivial cosmetic changes.
+ * Change "Issuing Quarantine Inspector" to "Issuing Inspector"
+ * Change "Inspector / IVCA / Responsible..." to "Inspector or IVCA Responsible..."
+ * Incredibly after all this time this is all they've got for me and I've completed the above.
+ 
